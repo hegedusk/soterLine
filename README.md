@@ -1,0 +1,2 @@
+# soterLine
+soterLine szoftverfejlesztői vizsgamunka
